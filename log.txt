@@ -1,0 +1,24 @@
+body > div > div > table > tbody > tr:nth-child(2) > td > table > tbody > tr:nth-child(5) > td:nth-child(9) > a
+body > div > div > table > tbody > tr:nth-child(2) > td > table > tbody > tr:nth-child(5) > td:nth-child(9) > a
+body /usr/bin/python2.7 /home/su/PycharmProjects/shufa/shufa.py
+Traceback (most recent call last):
+  File "/home/su/PycharmProjects/shufa/shufa.py", line 16, in <module>
+    morelist=osoup.select('body > div > div > table > tbody > tr > td > table > tbody > tr > td > a')
+NameError: name 'osoup' is not defined
+
+Process finished with exit code 1
+> div > div > table > tbody > tr:n/usr/bin/python2.7 /home/su/PycharmProjects/shufa/shufa.py
+Traceback (most recent call last):
+  File "/home/su/PycharmProjects/shufa/shufa.py", line 16, in <module>
+    morelist=osoup.select('body > div > div > table > tbody > tr > td > table > tbody > tr > td > a')
+NameError: name 'osoup' is not defined
+
+Process finished with exit code 1
+/usr/bin/python2.7 /home/su/PycharmProjects/shufa/shufa.py
+Traceback (most recent call last):
+  File "/home/su/PycharmProjects/shufa/shufa.py", line 16, in <module>
+    morelist=osoup.select('body > div > div > table > tbody > tr > td > table > tbody > tr > td > a')
+NameError: name 'osoup' is not defined
+
+Process finished with exit code 1
+th-child(2) > td > table > tbody > tr:nth-child(14) > td:nth-child(6) > a
