@@ -1,3 +1,8 @@
 git init 
+git add 
+git commit 
+git push
+ssh-agent
+ssh-add
 ssh-keygent
 
