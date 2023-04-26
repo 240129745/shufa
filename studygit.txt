@@ -6,5 +6,5 @@ ssh-agent
 ssh-add
 ssh-keygent
 new 
-1
 git checkout -b new branch
+fix-B
